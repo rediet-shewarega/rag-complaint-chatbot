@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+data/raw/
+data/processed/complaints_task1_cleaned.csv
+vector_store/chunk_embeddings.npy
+
+vector_store/faiss_index.bin
+
+*.pyc
