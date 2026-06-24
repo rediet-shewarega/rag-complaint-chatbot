@@ -10,3 +10,16 @@ vector_store/chunk_embeddings.npy
 vector_store/faiss_index.bin
 
 *.pyc
+data/processed/complaint_embeddings.parquet
+vector_store_full/
+*.parquet
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/complaints.csv
+data/processed/complaint_embeddings.parquet
+*.parquet
+
+vector_store_full/
+models/

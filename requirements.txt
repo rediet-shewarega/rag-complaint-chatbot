@@ -144,3 +144,14 @@ wheel==0.47.0
 xxhash==3.7.0
 yarl==1.24.2
 zstandard==0.25.0
+faiss-cpu
+sentence-transformers
+transformers
+torch
+gradio
+pandas
+sentencepiece
+protobuf
+accelerate
+pyarrow
+gradio
